@@ -1,0 +1,7 @@
+1.Text Preprocessing -> https://www.nltk.org/book/ch03.html
+2.Text Preprocessing ->https://www.codecademy.com/paths/build-chatbots-with-python/tracks/rule-based-chatbots/modules/nlp-text-preprocessing/articles/ext-vid-nltk-with-python-3-for-natural-language-processing
+3.Word Embeddings ->https://spacy.io/api/token
+4.Cyborg Cantina + Retrieval_Based Functions
+5.https://www.codecademy.com/paths/build-chatbots-with-python/tracks/deep-learning-and-generative-chatbots/modules/deep-learning-for-nlp/informationals/seq2seq-machine-translation-project
+6.https://www.codecademy.com/paths/build-chatbots-with-python/tracks/deep-learning-and-generative-chatbots/modules/generative-chatbots/informationals/off-platform-project-generative-chatbot
+7.https://www.codecademy.com/paths/build-chatbots-with-python/tracks/chatbots-capstone/modules/chatbots-capstone/informationals/build-chatbots-with-python-capstone
